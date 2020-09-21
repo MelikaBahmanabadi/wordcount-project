@@ -1,0 +1,11 @@
+from project directory open git bash:
+-git init
+-git status
+-git add -A
+-git status
+-git commit -m "This is my first commit"
+make some changes in your files
+-git status
+-git add -A
+-git status
+-git commit -m "h1 to h2"
